@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/React-first-mini-project/static/css/main.a42b41aa.css",
+    "main.js": "/React-first-mini-project/static/js/main.25c76b93.js",
+    "static/media/nike2.jpg": "/React-first-mini-project/static/media/nike2.07e4f37bcc53c0b3374a.jpg",
+    "static/media/vans1.jpg": "/React-first-mini-project/static/media/vans1.ea0873c830585cab9a2e.jpg",
+    "static/media/adidas2.jpg": "/React-first-mini-project/static/media/adidas2.e8b5d92df122893dcfd5.jpg",
+    "static/media/nike1.jpg": "/React-first-mini-project/static/media/nike1.e9fa8d91c730c20de568.jpg",
+    "static/media/adidas1.jpg": "/React-first-mini-project/static/media/adidas1.d37708251234535eaa24.jpg",
+    "static/media/vans2.jpg": "/React-first-mini-project/static/media/vans2.bf6017bd4a271b142e26.jpg",
+    "index.html": "/React-first-mini-project/index.html",
+    "main.a42b41aa.css.map": "/React-first-mini-project/static/css/main.a42b41aa.css.map",
+    "main.25c76b93.js.map": "/React-first-mini-project/static/js/main.25c76b93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a42b41aa.css",
+    "static/js/main.25c76b93.js"
+  ]
+}
